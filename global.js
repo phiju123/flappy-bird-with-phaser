@@ -1,5 +1,6 @@
 	var game = new Phaser.Game(900, 600, Phaser.CANVAS);
 	var bird;
+	var birdSIze=566;
 	var birdGravity = 800;
 	var birdSpeed = 125;
 	var birdFlapPower = 300;
